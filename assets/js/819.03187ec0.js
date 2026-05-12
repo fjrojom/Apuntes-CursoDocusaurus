@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_frojom_curso_docusaurus=self.webpackChunkweb_frojom_curso_docusaurus||[]).push([["819"],{5390(e,u,r){r.d(u,{createArchitectureServices:()=>s.S});var s=r(5530);r(3345)}}]);

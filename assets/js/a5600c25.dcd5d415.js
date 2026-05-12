@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_frojom_curso_docusaurus=self.webpackChunkweb_frojom_curso_docusaurus||[]).push([["7908"],{7983(o){o.exports=JSON.parse('{"metadata":{"permalink":"/Apuntes-CursoDocusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
